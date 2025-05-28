@@ -2,7 +2,7 @@
  This is an example for Temperatute and Humidity Iot ESP32 micro 
 
  Git repository:
- ------> http://www.adafruit.com/category/63_98
+ ------> https://github.com/curiousmindos/iot-temperature-humidity-esp32/blob/main/iot-temperature-sensors-esp32.ino
 
  This example is for a 128x32 pixel display using I2C to communicate
  3 pins are required to interface (two I2C and one reset)
